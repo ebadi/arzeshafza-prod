@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://www.arzeshafza.com/sitemap.xml
+Sitemap: https://arzeshafza.com/sitemap.xml
