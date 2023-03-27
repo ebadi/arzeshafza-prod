@@ -12,12 +12,12 @@
     <lastmod>2023-03-26T23:11:06+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/time-value-of-money/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/trading/order/</loc>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/speculation/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/trading/limit-order/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/short-selling/</loc>
@@ -28,9 +28,6 @@
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/valuation/balancesheet/</loc>
     <lastmod>2023-03-25T22:18:28+01:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/trading/stop-loss/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/indices/</loc>
     <lastmod>2023-03-26T23:11:06+02:00</lastmod>
@@ -45,7 +42,7 @@
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/risks/</loc>
-    <lastmod>2023-03-26T23:11:06+02:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/business-life-cycle/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
@@ -67,6 +64,9 @@
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/dividend/</loc>
     <lastmod>2023-03-26T23:11:06+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/economy/markets/</loc>
+    <lastmod>2023-03-27T21:11:53+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/valuation/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
@@ -104,8 +104,11 @@
     <loc>https://arzeshafza.com/investing/stock-market/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
+    <loc>https://arzeshafza.com/investing/capital-raising/</loc>
+    <lastmod>2023-03-27T21:11:53+02:00</lastmod>
+  </url><url>
     <loc>https://arzeshafza.com/investing/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/posts/</loc>
     <lastmod>2023-03-25T14:58:24+01:00</lastmod>
@@ -131,8 +134,8 @@
     <loc>https://arzeshafza.com/investing/stock-market/valuation/dividend-discount-model/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/investing/options/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
+    <loc>https://arzeshafza.com/trading/options/</loc>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/valuation/capital-asset-pricing-model/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
@@ -159,7 +162,7 @@
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/black-scholes/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/derivative/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
@@ -174,10 +177,10 @@
     <lastmod>2023-03-25T22:18:28+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/liquidity/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/leverage/</loc>
-    <lastmod>2023-03-26T23:11:06+02:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/valuation/DCF/</loc>
     <lastmod>2023-03-26T23:11:06+02:00</lastmod>
@@ -201,10 +204,10 @@
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/arbitrage/</loc>
-    <lastmod>2023-03-25T22:18:28+01:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/algorithmic-trading/</loc>
-    <lastmod>2023-03-25T21:29:53+01:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/over-the-counter/</loc>
     <lastmod>2023-03-25T21:29:53+01:00</lastmod>
@@ -222,7 +225,7 @@
     <lastmod>2023-03-25T14:58:24+01:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/</loc>
-    <lastmod>2023-03-26T23:11:06+02:00</lastmod>
+    <lastmod>2023-03-27T20:51:50+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/bonds/</loc>
     <lastmod>2023-03-25T16:52:10+01:00</lastmod>
