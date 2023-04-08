@@ -50,6 +50,9 @@
     <loc>https://arzeshafza.com/investing/stock-market/valuation/ratios/</loc>
     <lastmod>2023-04-02T21:06:13+02:00</lastmod>
   </url><url>
+    <loc>https://arzeshafza.com/</loc>
+    <lastmod>2023-04-09T01:30:04+02:00</lastmod>
+  </url><url>
     <loc>https://arzeshafza.com/investing/what-to-invest/precious-metals/</loc>
     <lastmod>2023-04-02T21:06:13+02:00</lastmod>
   </url><url>
@@ -85,9 +88,6 @@
   </url><url>
     <loc>https://arzeshafza.com/investing/stock-market/sec/</loc>
     <lastmod>2023-04-02T21:06:13+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/trading/algorithmic-trading/</loc>
-    <lastmod>2023-04-02T19:36:44+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/order/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
@@ -155,11 +155,11 @@
     <loc>https://arzeshafza.com/economy/inflation/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/economy/</loc>
-    <lastmod>2023-04-09T01:12:03+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/economy/gdp/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/trading/algorithmic-trading/</loc>
+    <lastmod>2023-04-09T01:30:04+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/economy-schools/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
@@ -182,13 +182,7 @@
     <loc>https://arzeshafza.com/investing/time-value-of-money/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/investing/</loc>
-    <lastmod>2023-04-09T01:12:03+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/investing/compounding/</loc>
-    <lastmod>2023-04-09T01:12:03+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/trading/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/risks/</loc>
@@ -212,6 +206,9 @@
     <loc>https://arzeshafza.com/investing/alpha-beta/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
+    <loc>https://arzeshafza.com/economy/</loc>
+    <lastmod>2023-04-09T01:30:04+02:00</lastmod>
+  </url><url>
     <loc>https://arzeshafza.com/investing/kelly-criterion/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
@@ -219,7 +216,7 @@
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/funds/</loc>
-    <lastmod>2023-04-09T01:12:03+02:00</lastmod>
+    <lastmod>2023-04-09T01:30:04+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/roboadvisor/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
@@ -230,8 +227,11 @@
     <loc>https://arzeshafza.com/investing/stock-market/</loc>
     <lastmod>2023-04-09T01:12:03+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/</loc>
-    <lastmod>2023-04-09T01:12:03+02:00</lastmod>
+    <loc>https://arzeshafza.com/investing/</loc>
+    <lastmod>2023-04-09T01:30:04+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/trading/</loc>
+    <lastmod>2023-04-09T01:30:04+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/tags/Documentation/</loc>
     <lastmod>2023-04-02T18:27:45+02:00</lastmod>
