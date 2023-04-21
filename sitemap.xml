@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arzeshafza.com/posts/</loc>
-    <lastmod>2023-04-10T10:32:54+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/investing/what-to-invest/bonds/</loc>
     <lastmod>2023-04-21T00:37:30+02:00</lastmod>
   </url><url>
@@ -12,7 +9,7 @@
     <lastmod>2023-04-18T18:05:51+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/</loc>
-    <lastmod>2023-04-21T00:13:24+02:00</lastmod>
+    <lastmod>2023-04-22T01:14:13+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/funds/indexfund/</loc>
     <lastmod>2023-04-18T14:07:06+02:00</lastmod>
@@ -173,32 +170,17 @@
     <loc>https://arzeshafza.com/economy/security/</loc>
     <lastmod>2023-04-18T17:23:43+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/posts/macro/gdp/</loc>
-    <lastmod>2023-04-18T00:45:47+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/trading/algorithmic-trading/</loc>
     <lastmod>2023-04-18T17:23:43+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/common-mistakes/</loc>
     <lastmod>2023-04-18T17:23:43+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/posts/macro/economy-schools/</loc>
-    <lastmod>2023-04-18T00:45:47+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/equity-investment/stock-split/</loc>
     <lastmod>2023-04-18T14:07:06+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/posts/macro/policy/</loc>
-    <lastmod>2023-04-18T00:45:47+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/equity-investment/mergers-acquisitions/</loc>
     <lastmod>2023-04-18T14:07:06+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/posts/macro/fed/</loc>
-    <lastmod>2023-04-18T00:45:47+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/posts/macro/financial-crisis/</loc>
-    <lastmod>2023-04-18T00:45:47+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/ratios/</loc>
     <lastmod>2023-04-18T18:05:51+02:00</lastmod>
@@ -227,17 +209,7 @@
     <loc>https://arzeshafza.com/trading/</loc>
     <lastmod>2023-04-18T17:23:43+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/tags/Documentation/</loc>
-    <lastmod>2023-04-10T09:48:28+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/tags/</loc>
-    <lastmod>2023-04-10T09:48:28+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/tags/Updates/</loc>
-    <lastmod>2023-04-10T09:48:28+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/posts/hello_geekdoc/</loc>
-    <lastmod>2023-04-10T09:48:28+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/investing/funds/etf/</loc>
     <lastmod>2023-04-18T14:07:06+02:00</lastmod>
