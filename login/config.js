@@ -26,6 +26,7 @@ var config = {
 };
 firebase.initializeApp(config);
 
+const database = firebase.database()
 const auth = firebase.auth()
 
 // Google OAuth Client ID, needed to support One-tap sign-up.

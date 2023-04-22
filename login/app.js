@@ -132,6 +132,7 @@ var handleSignedInUser = function(user) {
   } else {
     document.getElementById('photo').style.display = 'none';
   }
+  loadmsg()
 };
 
 

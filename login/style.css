@@ -27,7 +27,7 @@ body {
   margin: 0 auto 20px;
   max-width: 400px;
   padding: 10px;
-  text-align: left;
+  /* text-align: left; */
 }
 
 #photo-container {
