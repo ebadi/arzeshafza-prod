@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://arzeshafza.com/Investment/what-to-invest/bonds/</loc>
-    <lastmod>2023-05-07T12:07:22+02:00</lastmod>
+    <lastmod>2023-05-20T16:48:57+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/Investment/what-to-invest/security/</loc>
+    <lastmod>2023-05-20T16:48:57+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/what-to-invest/real-estate/</loc>
     <lastmod>2023-04-23T14:40:39+02:00</lastmod>
@@ -18,7 +21,7 @@
     <lastmod>2023-05-07T23:48:17+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/money/</loc>
-    <lastmod>2023-05-16T10:16:24+02:00</lastmod>
+    <lastmod>2023-05-20T16:48:57+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/value/</loc>
     <lastmod>2023-05-07T12:07:22+02:00</lastmod>
@@ -33,7 +36,7 @@
     <lastmod>2023-05-07T11:59:58+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/what-to-invest/crypto/</loc>
-    <lastmod>2023-05-18T23:15:00+02:00</lastmod>
+    <lastmod>2023-05-20T16:48:57+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/what-to-invest/alternative-assets/</loc>
     <lastmod>2023-05-07T11:59:58+02:00</lastmod>
@@ -75,7 +78,7 @@
     <lastmod>2023-05-07T12:07:22+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/inflation/</loc>
-    <lastmod>2023-05-16T10:16:24+02:00</lastmod>
+    <lastmod>2023-05-20T16:48:57+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/indices/</loc>
     <lastmod>2023-05-01T23:35:52+02:00</lastmod>
@@ -176,9 +179,6 @@
     <loc>https://arzeshafza.com/macro-economy/economy-schools/</loc>
     <lastmod>2023-05-16T15:58:23+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/economy/security/</loc>
-    <lastmod>2023-05-07T12:07:22+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/trading/algorithmic-trading/</loc>
     <lastmod>2023-05-16T14:29:28+02:00</lastmod>
   </url><url>
@@ -244,6 +244,9 @@
   </url><url>
     <loc>https://arzeshafza.com/macro-economy/fed/</loc>
     <lastmod>2023-05-16T15:58:23+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/macro-economy/currency/</loc>
+    <lastmod>2023-05-20T16:48:57+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/</loc>
     <lastmod>2023-05-17T09:41:15+02:00</lastmod>
