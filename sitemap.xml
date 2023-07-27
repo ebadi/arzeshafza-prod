@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arzeshafza.com/Investment/market-prediction/</loc>
-    <lastmod>2023-07-25T16:04:09+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/</loc>
-    <lastmod>2023-07-25T16:03:33+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/what-to-invest/security/</loc>
     <lastmod>2023-07-26T15:49:30+02:00</lastmod>
@@ -69,7 +66,7 @@
     <lastmod>2023-07-25T16:03:33+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/CAGR/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/volatility/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
@@ -96,22 +93,19 @@
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/IPO/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/derivative/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/ESG/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:38+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/funds/</loc>
     <lastmod>2023-05-07T11:59:58+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/tax/</loc>
     <lastmod>2023-07-25T16:04:09+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/trading/short-selling/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/Investment/fundamental-analysis/</loc>
     <lastmod>2023-07-26T15:49:30+02:00</lastmod>
@@ -121,6 +115,9 @@
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/common-stock/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/trading/short-selling/</loc>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/options/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
@@ -173,6 +170,9 @@
     <loc>https://arzeshafza.com/equity-investment/valuation/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
+    <loc>https://arzeshafza.com/equity-investment/ratios/</loc>
+    <lastmod>2023-07-27T11:09:38+02:00</lastmod>
+  </url><url>
     <loc>https://arzeshafza.com/trading/arbitrage/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
@@ -184,6 +184,9 @@
   </url><url>
     <loc>https://arzeshafza.com/macro-economy/economy-schools/</loc>
     <lastmod>2023-07-26T15:52:59+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/economy/market-prediction/</loc>
+    <lastmod>2023-07-27T11:09:38+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/trading/algorithmic-trading/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
@@ -219,13 +222,13 @@
     <lastmod>2023-04-26T23:23:41+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/mergers-acquisitions/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
+  </url><url>
+    <loc>https://arzeshafza.com/equity-investment/reverse-merger/</loc>
+    <lastmod>2023-07-27T11:09:38+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/macro-economy/gdp/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
-  </url><url>
-    <loc>https://arzeshafza.com/equity-investment/ratios/</loc>
-    <lastmod>2023-07-26T15:49:30+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/macro-economy/financial-crisis/</loc>
     <lastmod>2023-07-26T15:49:30+02:00</lastmod>
@@ -233,26 +236,23 @@
     <loc>https://arzeshafza.com/equity-investment/bankrupcy/</loc>
     <lastmod>2023-04-18T14:07:06+02:00</lastmod>
   </url><url>
-    <loc>https://arzeshafza.com/equity-investment/reverse-merger/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
-  </url><url>
     <loc>https://arzeshafza.com/macro-economy/policy/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/SPAC/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/strategies/</loc>
     <lastmod>2023-07-26T15:48:59+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/equity-investment/over-the-counter/</loc>
-    <lastmod>2023-07-26T15:49:30+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/macro-economy/fed/</loc>
     <lastmod>2023-05-16T15:58:23+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/macro-economy/currency/</loc>
-    <lastmod>2023-07-26T15:48:59+02:00</lastmod>
+    <lastmod>2023-07-27T11:09:12+02:00</lastmod>
   </url><url>
     <loc>https://arzeshafza.com/economy/</loc>
     <lastmod>2023-07-25T16:03:33+02:00</lastmod>
