@@ -449,3 +449,49 @@ body {
     font-size: 1.7rem;
   }
 }
+
+/* ---- Related pages block ---- */
+
+.book-related {
+  margin-top: 3rem;
+  padding: 1.2rem 1.4rem;
+  background: var(--book-paper-deep);
+  border-radius: 8px;
+  border-inline-start: 4px solid var(--book-accent);
+  font-family: "Vazirmatn", sans-serif;
+  text-align: start;
+}
+
+.gdoc-markdown .book-related h2 {
+  margin: 0 0 0.6em;
+  padding: 0;
+  border: 0;
+  font-size: 1.2rem;
+}
+
+.book-related ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.book-related li {
+  margin: 0;
+  padding: 0.55em 0;
+  border-top: 1px solid var(--book-rule);
+  line-height: 1.7;
+}
+
+.book-related li:first-child {
+  border-top: 0;
+}
+
+.book-related a {
+  font-weight: 700;
+}
+
+.book-related span {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--book-ink-soft);
+}
