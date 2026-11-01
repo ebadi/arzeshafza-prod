@@ -22,3 +22,61 @@
 .icon-grid__line--text {
   font-size: 0.8em;
 }
+
+/* PricePinner footer ad */
+.pp-ad {
+  box-sizing: border-box;
+  padding: 1rem 1rem 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  margin-bottom: 0.5rem;
+}
+
+.pp-ad__link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: var(--footer-font-color);
+  text-decoration: none;
+}
+
+.pp-ad__link:hover .pp-ad__cta,
+.pp-ad__link:focus-visible .pp-ad__cta {
+  background: var(--footer-font-color);
+  color: var(--footer-background);
+}
+
+.pp-ad__logo {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+}
+
+.pp-ad__text {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+  line-height: 1.5;
+}
+
+.pp-ad__title {
+  font-weight: bold;
+  color: var(--footer-link-color);
+}
+
+.pp-ad__cta {
+  flex: none;
+  padding: 0.4rem 1rem;
+  border: 1px solid var(--footer-font-color);
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.pp-ad__label {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.75em;
+  opacity: 0.6;
+}
+
