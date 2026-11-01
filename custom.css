@@ -80,3 +80,372 @@
   opacity: 0.6;
 }
 
+
+/* =====================================================================
+   Book theme: Persian book typography and colors
+   Body: Noto Naskh Arabic. Headings and interface: Vazirmatn.
+   Navy and gold match the cover of the PDF book.
+   ===================================================================== */
+
+@font-face {
+  font-family: "Noto Naskh Arabic";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("fonts/noto-naskh-arabic-arabic-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1,
+    U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74,
+    U+FE76-FEFC;
+}
+
+@font-face {
+  font-family: "Noto Naskh Arabic";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("fonts/noto-naskh-arabic-latin-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-200B, U+2012-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("fonts/vazirmatn-arabic-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1,
+    U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74,
+    U+FE76-FEFC;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("fonts/vazirmatn-latin-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+    U+0304, U+0308, U+0329, U+2000-200B, U+2012-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ---- Color tokens ---- */
+
+:root,
+:root[color-theme="light"] {
+  --book-paper: #fbf8f1;
+  --book-paper-deep: #f3ecdf;
+  --book-ink: #2b2620;
+  --book-ink-soft: #5c5348;
+  --book-rule: #e3d8c4;
+  --book-heading: #14213d;
+  --book-accent: #a87a1c;
+  --book-quote-bg: #f5eedf;
+
+  --header-background: #14213d;
+  --header-font-color: #ffffff;
+  --body-background: var(--book-paper);
+  --body-font-color: var(--book-ink);
+  --link-color: #1c4f8a;
+  --link-color-visited: #5a3d8a;
+  --accent-color-dark: #d6c9b1;
+  --accent-color: var(--book-rule);
+  --accent-color-lite: var(--book-paper-deep);
+  --footer-background: #0f1930;
+  --footer-font-color: #ffffff;
+  --footer-link-color: #e0b450;
+  --footer-link-color-visited: #e0b450;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --book-paper: #1a1916;
+    --book-paper-deep: #23211d;
+    --book-ink: #e6dfd2;
+    --book-ink-soft: #b3aa9b;
+    --book-rule: #3a362f;
+    --book-heading: #f0d38d;
+    --book-accent: #e0b450;
+    --book-quote-bg: #24221d;
+
+    --header-background: #0f1930;
+    --body-background: var(--book-paper);
+    --body-font-color: var(--book-ink);
+    --link-color: #8fbcf0;
+    --link-color-visited: #c2a8f0;
+    --accent-color-dark: #12110f;
+    --accent-color: var(--book-rule);
+    --accent-color-lite: var(--book-paper-deep);
+    --footer-background: #0b1222;
+  }
+}
+
+:root[color-theme="dark"] {
+  --book-paper: #1a1916;
+  --book-paper-deep: #23211d;
+  --book-ink: #e6dfd2;
+  --book-ink-soft: #b3aa9b;
+  --book-rule: #3a362f;
+  --book-heading: #f0d38d;
+  --book-accent: #e0b450;
+  --book-quote-bg: #24221d;
+
+  --header-background: #0f1930;
+  --body-background: var(--book-paper);
+  --body-font-color: var(--book-ink);
+  --link-color: #8fbcf0;
+  --link-color-visited: #c2a8f0;
+  --accent-color-dark: #12110f;
+  --accent-color: var(--book-rule);
+  --accent-color-lite: var(--book-paper-deep);
+  --footer-background: #0b1222;
+}
+
+/* ---- Base typography ---- */
+
+body {
+  background: var(--body-background);
+  color: var(--body-font-color);
+  font-family: "Vazirmatn", Tahoma, sans-serif;
+}
+
+.gdoc-header {
+  border-bottom: 3px solid #e0b450;
+}
+
+.gdoc-brand__title {
+  font-family: "Vazirmatn", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+/* Reading column: a book-like line length, centered in the page area. */
+.gdoc-page {
+  max-width: 48rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+.gdoc-markdown {
+  font-family: "Noto Naskh Arabic", "Vazirmatn", Georgia, serif;
+  font-size: 1.2rem;
+  line-height: 2.1;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: none;
+}
+
+.gdoc-markdown p {
+  margin: 0 0 1.1em;
+}
+
+/* Lists and tables read better without justification. */
+.gdoc-markdown li,
+.gdoc-markdown td,
+.gdoc-markdown th {
+  text-align: start;
+}
+
+/* ---- Headings ---- */
+
+.gdoc-markdown h1,
+.gdoc-markdown h2,
+.gdoc-markdown h3,
+.gdoc-markdown h4,
+.gdoc-markdown h5,
+.gdoc-markdown h6 {
+  font-family: "Vazirmatn", sans-serif;
+  color: var(--book-heading);
+  line-height: 1.6;
+  text-align: start;
+  /* The theme uses flex here, which drops the space between Persian text
+     and an English <span>. Block layout keeps it. */
+  display: block;
+}
+
+.gdoc-markdown .gdoc-page__anchor {
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.gdoc-markdown h1 {
+  font-size: 2.1rem;
+  font-weight: 800;
+  text-align: center;
+  margin: 0.5em 0 1.2em;
+}
+
+/* A small gold ornament under the chapter title, as in a printed book. */
+.gdoc-markdown h1::after {
+  content: "";
+  display: block;
+  width: 7rem;
+  height: 0.6rem;
+  margin: 0.5em auto 0;
+  background:
+    linear-gradient(var(--book-accent), var(--book-accent)) center / 100% 1px no-repeat,
+    radial-gradient(circle, var(--book-accent) 0 0.22rem, transparent 0.24rem) center / 0.6rem 0.6rem no-repeat;
+}
+
+.gdoc-markdown h2 {
+  font-size: 1.55rem;
+  font-weight: 700;
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--book-rule);
+}
+
+.gdoc-markdown h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 1.6em;
+}
+
+.gdoc-markdown h4 {
+  font-size: 1.12rem;
+  font-weight: 600;
+  color: var(--book-ink);
+}
+
+/* ---- Links ---- */
+
+.gdoc-markdown a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.3em;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+}
+
+.gdoc-markdown a:hover {
+  text-decoration-color: currentColor;
+}
+
+/* ---- Quotes ---- */
+
+.gdoc-markdown blockquote {
+  margin: 1.5em 0;
+  padding: 0.8em 1.2em;
+  border: 0;
+  border-inline-start: 4px solid var(--book-accent);
+  border-radius: 0 6px 6px 0;
+  background: var(--book-quote-bg);
+  color: var(--book-ink);
+}
+
+[dir="rtl"] .gdoc-markdown blockquote {
+  border-radius: 6px 0 0 6px;
+}
+
+.gdoc-markdown blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- Tables ---- */
+
+.gdoc-markdown table {
+  font-family: "Vazirmatn", sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  border-collapse: collapse;
+}
+
+.gdoc-markdown table th {
+  background: var(--book-paper-deep);
+  color: var(--book-heading);
+  font-weight: 700;
+}
+
+.gdoc-markdown table th,
+.gdoc-markdown table td {
+  border: 1px solid var(--book-rule);
+  padding: 0.4em 0.8em;
+}
+
+/* ---- Images ---- */
+
+.gdoc-markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5em auto;
+  border-radius: 4px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12);
+}
+
+/* ---- Code and math stay left to right ---- */
+
+.gdoc-markdown code,
+.gdoc-markdown pre {
+  font-family: "Liberation Mono", monospace;
+  font-size: 0.85em;
+  direction: ltr;
+}
+
+/* Formulas must read left to right inside right-to-left text. */
+.gdoc-markdown .gdoc-katex,
+.gdoc-markdown .katex,
+.gdoc-markdown .katex-display {
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+.gdoc-markdown .gdoc-katex {
+  display: inline-block;
+  max-width: 100%;
+  overflow-x: auto;
+  vertical-align: middle;
+}
+
+.gdoc-markdown .katex {
+  font-size: 1.05em;
+}
+
+/* ---- Navigation (sidebar) ---- */
+
+.gdoc-nav {
+  font-family: "Vazirmatn", sans-serif;
+  font-size: 0.95rem;
+}
+
+.gdoc-nav__entry {
+  line-height: 1.9;
+}
+
+.gdoc-nav__entry.is-active {
+  color: var(--book-heading);
+  font-weight: 700;
+  box-shadow: inset -3px 0 0 var(--book-accent);
+  padding-inline-start: 0.4em;
+}
+
+/* Breadcrumb bar and page footer */
+.gdoc-page__header,
+.gdoc-page__footer {
+  font-family: "Vazirmatn", sans-serif;
+  font-size: 0.9rem;
+  background: var(--book-paper-deep);
+  border-color: var(--book-rule);
+}
+
+.gdoc-footer {
+  font-family: "Vazirmatn", sans-serif;
+}
+
+/* Search box */
+.gdoc-search__input {
+  font-family: "Vazirmatn", sans-serif;
+}
+
+@media (max-width: 40rem) {
+  /* A narrow column makes justified text leave large gaps. */
+  .gdoc-markdown {
+    font-size: 1.1rem;
+    line-height: 2;
+    text-align: start;
+  }
+  .gdoc-markdown h1 {
+    font-size: 1.7rem;
+  }
+}
